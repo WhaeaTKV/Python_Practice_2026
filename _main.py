@@ -1,4 +1,2 @@
-print("hello")
-
-input("Name?")
-input("Name?\n")
+print("hello" + "world"*5)
+print("hello world"*5)
